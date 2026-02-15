@@ -1,0 +1,8 @@
+{
+  "name": "transition-toolkit",
+  "description": "Developer transition toolkit — analyze codebases, generate assessments, evaluate candidates, and create learning plans for knowledge transfer",
+  "version": "1.0.0",
+  "author": {
+    "name": "Senil Mendapara"
+  }
+}

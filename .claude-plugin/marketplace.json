@@ -1,0 +1,13 @@
+{
+  "name": "transition-marketplace",
+  "owner": {
+    "name": "Senil Mendapara"
+  },
+  "plugins": [
+    {
+      "name": "dev-transition-toolkit",
+      "source": "./dev-transition-toolkit-plugin",
+      "description": "Developer transition toolkit for knowledge transfer"
+    }
+  ]
+}
